@@ -62,11 +62,7 @@ flutter:
     - lib/img/iconfacebook.png
     - lib/img/iconinstagram.png
     - lib/img/iconyoutube.png
-    - lib/img/carroR.png
     - lib/img/fundo.jpg
-    - lib/img/affonso.jpg
-    - lib/img/calcario.jpg
-    - lib/img/destina.jpg
 
 
   # The following line ensures that the Material Icons font is
