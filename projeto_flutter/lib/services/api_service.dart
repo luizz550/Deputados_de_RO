@@ -4,7 +4,7 @@ import '../models/parlamentar.dart'; // Atualize o caminho conforme necessário
 import '../models/parlamentar_detalhes.dart'; // Atualize o caminho conforme necessário
 
 class ApiService {
-  static const String baseUrl = 'http://192.168.3.35:3000/api/parlamentares';
+  static const String baseUrl = 'http://192.168.100.55:3000/api/parlamentares';
 
   // Método para buscar todos os parlamentares para a tela inicial
   static Future<List<Parlamentar>> fetchParlamentares() async {

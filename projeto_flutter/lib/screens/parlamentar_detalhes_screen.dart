@@ -68,7 +68,7 @@ class _ParlamentarDetalhesScreenState extends State<ParlamentarDetalhesScreen> {
                           SizedBox(height: 8),
                           Text('Partido: ${detalhes.partido}', style: TextStyle(fontSize: 18)),
                           SizedBox(height: 16),
-                          Text('Email: ${detalhes.email}', style: TextStyle(fontSize: 16)),
+                          Text(' ${detalhes.email}', style: TextStyle(fontSize: 16)),
                         ],
                       ),
                     ),
